@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Karting Microgame",
+"productVersion": "1.0",
+"dataUrl": "RuntimeTests.csproj.data.unityweb",
+"wasmCodeUrl": "RuntimeTests.csproj.wasm.code.unityweb",
+"wasmFrameworkUrl": "RuntimeTests.csproj.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
